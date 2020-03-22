@@ -1,0 +1,18 @@
+article{
+	width: 340px;
+	height: 450px;
+	background-color: #c1c1c1 
+	
+}
+a{
+	text-decoration: none;
+	font-size: 28px;
+	color: black;
+	font-weight: bold;
+}
+a:hover{
+	color: red;
+}
+p{
+	text-align: justify;
+}
